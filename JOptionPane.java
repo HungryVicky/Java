@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class guiJava {
+public class JOptionPane {
     public static void main (String[] args){
         String nameOfThePerson;
         int ageOfThePerson;
